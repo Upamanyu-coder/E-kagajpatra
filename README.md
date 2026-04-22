@@ -5,22 +5,23 @@
 # File Component
 
 e-kagajpatra/
-├── backend/
-│ ├── models/
-│ ├── routes/
-│ ├── utils/
-│ ├── templates/
-│ ├── server.js
-│ └── package.json
-├── frontend/
-│ ├── src/
-│ │ ├── components/
-│ │ ├── pages/
-│ │ ├── services/
-│ │ ├── utils/
-│ │ └── App.js
-│ └── package.json
-└── README.md
+
+- ├── backend/
+- │ ├── models/
+- │ ├── routes/
+- │ ├── utils/
+- │ ├── templates/
+- │ ├── server.js
+- │ └── package.json
+- ├── frontend/
+- │ ├── src/
+- │ │ ├── components/
+- │ │ ├── pages/
+- │ │ ├── services/
+- │ │ ├── utils/
+- │ │ └── App.js
+- │ └── package.json
+- └── README.md
 
 ---
 

@@ -208,3 +208,36 @@ To develop a full-stack web application that digitizes government document proce
 Generate modular, scalable, and well-documented code for both frontend and backend. Follow best practices, ensure proper validation, include error handling, and maintain clean architecture throughout the project.
 
 ---
+
+# E-KagajPatra Frontend Structure
+
+Ekagajpatra/
+└── frontend/
+├── node_modules/
+├── public/
+│ └── vite.svg
+├── src/
+│ ├── assets/
+│ ├── Components/
+│ │ ├── Header.jsx
+│ │ └── Footer.jsx
+│ ├── Image/
+│ │ └── Image.png
+│ ├── Layout/
+│ │ └── MainLayout.jsx
+│ ├── Pages/
+│ │ ├── About.jsx
+│ │ ├── Contact.jsx
+│ │ ├── LoginPage.jsx
+│ │ └── Register.jsx
+│ ├── App.jsx
+│ ├── App.css
+│ ├── index.css
+│ └── index.jsx
+├── package.json
+├── vite.config.js
+└── index.html
+
+```
+
+```

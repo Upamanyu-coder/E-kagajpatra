@@ -9,6 +9,7 @@ import LoginPage from "./Pages/Login";
 import RegisterPage from "./Pages/Register";
 import NotFoundPage from "./Pages/NotFound";
 import Home from "./Pages/Home";
+import Test from "./Pages/Test";
 
 const Router = () => {
   return (
@@ -25,6 +26,8 @@ const Router = () => {
           <Route path="login" element={<LoginPage />} />
           <Route path="register" element={<RegisterPage />} />
         </Route>
+
+        <Route path="/test" element={<Test />} />
 
         <Route path="*" element={<NotFoundPage />} />
       </Routes>
